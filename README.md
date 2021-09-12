@@ -6,6 +6,8 @@
 
 ```
 git config --global alias.ac '!git add -A && git commit'
+
+# Usage:
 git ac -m "my_commit_message"
 ```
 
