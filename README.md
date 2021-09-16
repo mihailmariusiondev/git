@@ -2,6 +2,25 @@
 
 ---
 
+## Get your local Git repository on Bitbucket
+
+
+```bash
+# Step 1: Switch to your repository's directory
+cd /path/to/your/repo
+
+# Step 2: Connect your existing repository to Bitbucket
+
+git remote add origin https://mariusmihailion@bitbucket.org/mariusmihailion/<repositoryName>.git
+git push -u origin master
+
+```
+
+
+
+
+---
+
 - Add & commit in one command
 
 ```
